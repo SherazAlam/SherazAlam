@@ -53,7 +53,7 @@
 ### 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=sherazalam&color=58a6ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherazalam&theme=radical" />
 </p>
 
 ---
