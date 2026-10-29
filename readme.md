@@ -27,17 +27,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack & Backend Software Engineer with 3+ years of experience** developing, deploying, and maintaining production applications.
+I'm a **Full-Stack & Backend Software Engineer with 3+ years of professional experience** building, deploying, and maintaining production applications.
 
-My primary focus is on **TypeScript, Node.js, NestJS, React, MongoDB, Redis, and AWS**, with experience in SaaS platforms, payment systems, cloud infrastructure, AI integrations, and Web3.
+I specialize in **TypeScript, Node.js, NestJS, React, MongoDB, Redis, and AWS**, with hands-on experience across SaaS platforms, payment systems, AI integrations, Web3, and cloud infrastructure.
 
-- 🔭 Building and maintaining production SaaS applications
-- ⚙️ Developing scalable APIs, authentication, RBAC, and transaction workflows
-- 🚀 Deploying backend services and frontend applications on AWS
-- 🧠 Integrating AI, RAG, and real-time conversational voice agents
-- 💳 Working with Stripe, marketplace integrations, and payment workflows
-- 👥 Contributing to technical planning and developer mentoring
-- 🌍 Interested in international remote engineering opportunities
+- ⚙️ Design and develop REST APIs, authentication, RBAC, and transaction workflows
+- 🚀 Deploy and maintain production applications using AWS and CI/CD pipelines
+- 🧠 Integrate AI-powered features, RAG, and real-time conversational agents
+- 💳 Build payment integrations, subscription billing, and marketplace workflows
+- 🔄 Implement background processing using Redis, BullMQ, and RabbitMQ
+- 👥 Contribute to technical planning, architecture decisions, and mentoring
 
 ---
 
@@ -67,73 +66,60 @@ My primary focus is on **TypeScript, Node.js, NestJS, React, MongoDB, Redis, and
 
 ---
 
-### 🚀 What I've Built
+### 🚀 Selected Engineering Work
 
 #### 🎯 Production Loyalty & Rewards SaaS
-
 **NestJS · MongoDB · Redis · BullMQ · Stripe · AWS**
 
-- Developed backend capabilities for a live SaaS platform with production users.
-- Built multi-role workflows for customers, businesses, branches, sales agents, and administrators.
-- Implemented QR-based rewards, stamp transactions, RBAC, and transaction history.
-- Integrated Stripe subscriptions, Redis caching, background jobs, and cloud deployments.
+- Developed backend systems for a live SaaS platform serving production users.
+- Implemented multi-role workflows, QR-based rewards, and transaction history.
+- Integrated Stripe subscriptions, Redis caching, and asynchronous background jobs.
+- Supported production deployment and cloud infrastructure.
 
 #### 🛒 Multi-Channel E-commerce Platform
+**Node.js · MongoDB · Stripe · Marketplace APIs**
 
-**Node.js · MongoDB · Stripe · Third-Party APIs**
-
-- Developed integrations with WooCommerce, Amazon SP-API, and eBay.
-- Worked on inventory management, seller workflows, and payment integrations.
-- Implemented wallet and transaction-related backend features.
+- Integrated WooCommerce, Amazon SP-API, and eBay.
+- Developed seller, inventory, wallet, and transaction workflows.
+- Implemented payment processing and third-party integrations.
 
 #### 🤖 AI-Powered Applications
-
 **OpenAI · Gemini · Twilio · Python · FastAPI**
 
-- Integrated conversational AI voice agents with Twilio and OpenAI Realtime.
-- Developed retrieval-augmented generation and semantic search functionality.
-- Built AI-assisted application features and backend integrations.
+- Integrated real-time conversational AI voice agents.
+- Developed retrieval-augmented generation and semantic search.
+- Built AI-assisted application features and backend services.
 
-> Selected professional projects are proprietary. Publicly shareable
-> architecture notes and technical case studies may be added here.
+#### ☁️ Cloud & Backend Infrastructure
+**AWS · GitHub Actions · Nginx · Redis**
 
----
+- Deployed and maintained backend services on AWS EC2.
+- Configured Nginx, PM2, and CI/CD pipelines.
+- Worked with S3, CloudFront, and asynchronous processing.
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherazalam&layout=compact&theme=radical"
-    height="180"
-    alt="Most used public repository languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sherazalam&theme=radical&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+> Some professional projects are proprietary.
+> Publicly shareable technical case studies can be provided
+> without exposing private source code.
 
 ---
 
-### 📊 Contribution Activity
+### 💡 Engineering Interests
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherazalam&theme=radical"
-    alt="GitHub contribution activity"
-  />
+  <img src="https://img.shields.io/badge/Backend_Engineering-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SaaS_Development-0D1117?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Infrastructure-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Integrations-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3-0D1117?style=for-the-badge&logo=ethereum&logoColor=white"/>
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm interested in collaborating with international engineering teams
-building SaaS platforms, AI applications, developer tools, and
-scalable web products.
+I'm interested in collaborating with international engineering
+teams building SaaS platforms, AI applications, developer tools,
+and scalable web products.
 
 📬 **Email:** [sherazrajpoot@gmail.com](mailto:sherazrajpoot@gmail.com)
 
@@ -142,8 +128,5 @@ scalable web products.
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sherazalam&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=sherazalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
